@@ -6,3 +6,7 @@
 [最大的铀矿供应商JSC National Atomic Company Kazatomprom的财务整理 -Google Sheets](https://docs.google.com/spreadsheets/d/1QZiK500M5earggfEJD5rqAxNBIBfMQ00RZt0DwpX97U/edit?usp=sharing)
 
 ![U308现金成本](U308cashcost.png)
+成本最低的矿都在哈萨克斯坦
+
+![ExplorationBudger](ExplorationBudger.png)
+近 10 年因为日本大地震的原因，资本开支很少了。
