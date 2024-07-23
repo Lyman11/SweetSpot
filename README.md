@@ -1,4 +1,4 @@
-# SweetSpots
+# SweetSpots甜点区
 本人20多年前开始证券投资，并在2010年开始进入证券行业。先在中国头部券商工作，后一直在私募从事证券研究投资工作。近期由于AI的快速发展，意识到信息处理将发生巨大的变革，而证券研究工作本质上就是一个信息处理，所以未来证券研究工作方式将被颠覆。为了应对这种变化，我想向最先进的IT公司学习，学习项目管理及AI工具，同时希望找几个志同道合的朋友一起做一些证券基本面的研究工作。
 
 目前我想用的工具包括：Notion，Slack，Google Docs。Notion和Slack还在摸索阶段，如果有更适合的工具也欢迎推荐。想成立的Workspace就叫”Sweet Spots“，引用于巴菲特所提的甜点区，希望能找到属于甜点区的击球。
@@ -8,7 +8,11 @@
 不过不参加组织也是欢迎来旁观的。可以在[Issues](https://github.com/Lyman11/SweetSpots/issues)里面提交研究方面的新想法或对现有研究的疑问和讨论，更欢迎认领新的研究方向。
 
 目前研究课题
-* [2024 工业制造研究](https://github.com/users/Lyman11/projects/1)>>>[铀矿](Uranium/Readme.md)
+* [2024年度工业制造研究](https://github.com/users/Lyman11/projects/1)>>>[铀矿](Uranium/Readme.md)
+* [2024年度科技行业研究](https://github.com/users/Lyman11/projects/2)>>>暂无课题
+* [2024年度消费行业研究](https://github.com/users/Lyman11/projects/3)>>>暂无课题
+* [2024年度医疗健康研究](https://github.com/users/Lyman11/projects/4)>>>暂无课题
+* [2024全球资产配置研究](https://github.com/users/Lyman11/projects/5)>>>暂无课题
 
 
 ## 英雄贴
