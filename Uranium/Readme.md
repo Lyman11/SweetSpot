@@ -20,3 +20,4 @@
 ## Inbox临时资料库
 [《We Study Billionaires – NUCLEAR POWER AND BITCOIN》](https://tongyi.aliyun.com/efficiency/doc/transcripts/wg57n33kkoo5nkr3?sl=1&source=1#)
 
+[第四代反应堆](https://zh.wikipedia.org/zh-cn/%E7%AC%AC%E5%9B%9B%E4%BB%A3%E5%8F%8D%E6%87%89%E5%A0%86#cite_note-28)使用新式设计后，同样数量的核燃料多产出100至300倍的能量。
