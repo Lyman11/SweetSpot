@@ -7,6 +7,10 @@
 
 不过不参加组织也是欢迎来旁观的。可以在[Issues](https://github.com/Lyman11/SweetSpots/issues)里面提交研究方面的新想法或对现有研究的疑问和讨论，更欢迎认领新的研究方向。
 
+目前研究课题
+* [2024 工业制造研究](https://github.com/users/Lyman11/projects/1)>>>[铀矿](Uranium/Readme.md)
+
+
 ## 英雄贴
 我一直想试一试有没有人愿意一起参与进来学习和研究。**匿名**参加（我不想知道你的名字和工作单位，你也别打听我的），合作方式通过Google Docs分享文档，通过Notion管理进度，通过Slack进行沟通和合作。由于涉及到投资，所以还是希望可以每周都有进度。
 
