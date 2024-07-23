@@ -7,7 +7,7 @@
 
 不过不参加组织也是欢迎来旁观的。可以在[Issues](https://github.com/Lyman11/SweetSpots/issues)里面提交研究方面的新想法或对现有研究的疑问和讨论，更欢迎认领新的研究方向。
 
-目前研究课题
+目前研究课题Project
 * [2024年度工业制造研究](https://github.com/users/Lyman11/projects/1)>>>[铀矿](Uranium/Readme.md)
 * [2024年度科技行业研究](https://github.com/users/Lyman11/projects/2)>>>暂无课题
 * [2024年度消费行业研究](https://github.com/users/Lyman11/projects/3)>>>暂无课题
