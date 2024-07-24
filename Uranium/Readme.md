@@ -22,36 +22,33 @@
 
 [成本最低的矿](https://docs.google.com/spreadsheets/d/1QZiK500M5earggfEJD5rqAxNBIBfMQ00RZt0DwpX97U/edit?gid=1693205601#gid=1693205601&range=A11:U11)都在哈萨克斯坦
 
-![](https://github.com/Lyman11/SweetSpots/blob/main/Uranium/U308cashcost.png?raw=true)
+![Untitled](https://github.com/Lyman11/SweetSpots/blob/Uranium/Uranium/U308cashcostByGeo.png?raw=true)
 
+成本还主要在授权费
+
+![https://github.com/Lyman11/SweetSpots/blob/main/Uranium/U308cashcost.png?raw=true](https://github.com/Lyman11/SweetSpots/blob/main/Uranium/U308cashcost.png?raw=true)
 
 铀矿价格图
 
-![](https://github.com/Lyman11/SweetSpots/blob/Uranium/Uranium/UX1!_2024-07-24_14-10-33_7a985.png?raw=true)
+![https://github.com/Lyman11/SweetSpots/blob/Uranium/Uranium/UX1!_2024-07-24_14-10-33_7a985.png?raw=true](https://github.com/Lyman11/SweetSpots/blob/Uranium/Uranium/UX1!_2024-07-24_14-10-33_7a985.png?raw=true)
 
-[COMEX_DL:UX1! Chart Image by lyman11](https://www.tradingview.com/x/fC6EQ6P3/)
-
-![U308cashcost.png](U308cashcost.png)
+[COMEX_DL:UX1](https://www.tradingview.com/x/fC6EQ6P3/)
 
 近 10 年因为日本大地震的原因，[资本开支](https://docs.google.com/spreadsheets/d/1QZiK500M5earggfEJD5rqAxNBIBfMQ00RZt0DwpX97U/edit?gid=630386563#gid=630386563&range=A9:P9)很少了。
 
-![](https://github.com/Lyman11/SweetSpots/blob/main/Uranium/ExplorationBudget.png?raw=true)
-
-![](http://picgo.value-invest.cn/upload/202407241400274.png)
-
-![ExplorationBudget.png](ExplorationBudget.png)
+![https://raw.githubusercontent.com/Lyman11/SweetSpots/main/Uranium/ExplorationBudget.png](https://raw.githubusercontent.com/Lyman11/SweetSpots/main/Uranium/ExplorationBudget.png)
 
 根据中广核矿业的估计，2030 年以后铀矿会处于供不应求的阶段。而且因为铀矿的开采周期很长，可能这个情况会持续
 
-![](https://github.com/Lyman11/SweetSpots/blob/main/Uranium/中广核矿业2024年投资者演示材料-11-0.png?raw=true)
-
-![%E4%B8%AD%E5%B9%BF%E6%A0%B8%E7%9F%BF%E4%B8%9A2024%E5%B9%B4%E6%8A%95%E8%B5%84%E8%80%85%E6%BC%94%E7%A4%BA%E6%9D%90%E6%96%99-11-0.png](%E4%B8%AD%E5%B9%BF%E6%A0%B8%E7%9F%BF%E4%B8%9A2024%E5%B9%B4%E6%8A%95%E8%B5%84%E8%80%85%E6%BC%94%E7%A4%BA%E6%9D%90%E6%96%99-11-0.png)
+![https://github.com/Lyman11/SweetSpots/blob/main/Uranium/中广核矿业2024年投资者演示材料-11-0.png?raw=true](https://github.com/Lyman11/SweetSpots/blob/main/Uranium/中广核矿业2024年投资者演示材料-11-0.png?raw=true)
 
 [调研录音《2024-06-13 15_47 中广核矿业记录-放大》](https://tingwu.aliyun.com/doc/transcripts/dej8nbxovoerqpog?sl=1#)
 
+[中广核矿业2024年投资者演示材料.pdf](https://github.com/Lyman11/SweetSpots/blob/147fff87a062d37c15afe627b3c426cd5cb1e559/Uranium/%E4%B8%AD%E5%B9%BF%E6%A0%B8%E7%9F%BF%E4%B8%9A2024%E5%B9%B4%E6%8A%95%E8%B5%84%E8%80%85%E6%BC%94%E7%A4%BA%E6%9D%90%E6%96%99.pdf)
+
 ## 核电站功率和铀矿需求的关系
 
-并网第一年是1 GW 天然铀500吨，然后每年换1/3，所以差不多对应是1GW 1年 180吨天然铀
+并网第一年是1GW天然铀500吨，然后每年换1/3，所以差不多对应是1GW1年180吨天然铀
 
 ## Todo
 
