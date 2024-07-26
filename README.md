@@ -9,7 +9,7 @@
 
 目前研究课题Project
 * [2024年度科技行业研究](https://github.com/users/Lyman11/projects/2)>>>特斯拉(NASDAQ:TSLA)
-* [2024年度工业制造研究](https://github.com/users/Lyman11/projects/1)>>>[铀矿](Uranium/Readme.md)|KAZATOMPROM([LSE:KAP](https://g.co/finance/59OT:LON))--锂电池|宁德时代(SZ:300750)
+* [2024年度工业制造研究](https://github.com/users/Lyman11/projects/1)>>>[铀矿](Industry/铀矿.md)|KAZATOMPROM([LSE:KAP](https://g.co/finance/59OT:LON))--锂电池|宁德时代(SZ:300750)
 * [2024年度消费行业研究](https://github.com/users/Lyman11/projects/3)>>>亚玛芬(NYSE:AS)
 * [2024年度医疗健康研究](https://github.com/users/Lyman11/projects/4)>>>暂无课题
 * [2024全球资产配置研究](https://github.com/users/Lyman11/projects/5)>>>暂无课题
