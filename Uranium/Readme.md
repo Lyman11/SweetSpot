@@ -19,10 +19,10 @@
 
 [铀矿的储量Wiki](https://zh.wikipedia.org/wiki/%E5%90%84%E5%9B%BD%E9%93%80%E5%82%A8%E5%A4%87%E9%87%8F%E5%88%97%E8%A1%A8)
 
-[最大的铀矿供应商JSC National Atomic Company Kazatomprom的财务整理 -Google Sheets](https://docs.google.com/spreadsheets/d/1QZiK500M5earggfEJD5rqAxNBIBfMQ00RZt0DwpX97U/edit?usp=sharing)
+[最大的铀矿供应商JSC National Atomic Company Kazatomprom的财务整理 -Google Sheets](https://docs.google.com/spreadsheets/d/1SE6HbAb6nk2jIpz1b23SGTxroP_SevbY6P5Ob2Lii00/edit?usp=sharing)
 
 ## 成本及分布
-[成本最低的矿](https://docs.google.com/spreadsheets/d/1QZiK500M5earggfEJD5rqAxNBIBfMQ00RZt0DwpX97U/edit?gid=1693205601#gid=1693205601&range=A11:U11)都在哈萨克斯坦
+[成本最低的矿](https://docs.google.com/spreadsheets/d/1SE6HbAb6nk2jIpz1b23SGTxroP_SevbY6P5Ob2Lii00/edit?gid=1693205601#gid=1693205601&range=A11:U11)都在哈萨克斯坦
 
 ![Untitled](https://github.com/Lyman11/SweetSpots/blob/Uranium/Uranium/U308cashcostByGeo.png?raw=true)
 
@@ -39,7 +39,7 @@
 
 ## 资本开支
 
-近 10 年因为日本大地震的原因，[资本开支](https://docs.google.com/spreadsheets/d/1QZiK500M5earggfEJD5rqAxNBIBfMQ00RZt0DwpX97U/edit?gid=630386563#gid=630386563&range=A9:P9)很少了。
+近 10 年因为日本大地震的原因，[资本开支](https://docs.google.com/spreadsheets/d/1SE6HbAb6nk2jIpz1b23SGTxroP_SevbY6P5Ob2Lii00/edit?gid=630386563#gid=630386563&range=A8)很少了。
 
 ![https://raw.githubusercontent.com/Lyman11/SweetSpots/main/Uranium/ExplorationBudget.png](https://raw.githubusercontent.com/Lyman11/SweetSpots/main/Uranium/ExplorationBudget.png)
 
