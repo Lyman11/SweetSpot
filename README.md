@@ -3,17 +3,16 @@
 
 目前我想用的工具包括：Notion，Slack，Google Docs。Notion和Slack还在摸索阶段，如果有更适合的工具也欢迎推荐。想成立的Workspace就叫”Sweet Spots“，引用于巴菲特所提的甜点区，希望能找到属于甜点区的击球。
 
-期初想在Notion上建立一个[小组织](https://sweetspots.notion.site/02248e2e889942d2b150f9ae26b033c1?v=48656b949eee4289a09f0fe37efe43e6&pvs=4)，但实际推广和参与程度堪忧，现在想干脆像码农学习，在GitHub上做一个开源研究。希望可以找到志同道合的人。
+期初想在Notion上建立一个[小组织](https://sweetspots.notion.site/02248e2e889942d2b150f9ae26b033c1?v=48656b949eee4289a09f0fe37efe43e6&pvs=4)，但实际推广和参与程度堪忧，现在想干脆像码农学习，在GitHub上做一个开源研究（由于用了 GitHub，也开始用上了 Obsidian 和 Sourcetree，GitHub 的缺点可能是不能针对文字的每段话开始评论和讨论，其实这一点飞书做的挺好的，可惜在内地需要实名）。希望可以找到志同道合的人。
 
 不过不参加组织也是欢迎来旁观的。可以在[Issues](https://github.com/Lyman11/SweetSpots/issues)里面提交研究方面的新想法或对现有研究的疑问和讨论，更欢迎认领新的研究方向。
 
 目前研究课题Project
-* [2024年度科技行业研究](https://github.com/users/Lyman11/projects/2)>>>特斯拉(NASDAQ:TSLA)
+* [2024年度科技行业研究](https://github.com/users/Lyman11/projects/2)>>>[特斯拉](/Technology/Tesla.md)(NASDAQ:TSLA)
 * [2024年度工业制造研究](https://github.com/users/Lyman11/projects/1)>>>[铀矿](Industry/铀矿.md)|KAZATOMPROM([LSE:KAP](https://g.co/finance/59OT:LON))--锂电池|宁德时代(SZ:300750)
 * [2024年度消费行业研究](https://github.com/users/Lyman11/projects/3)>>>[亚玛芬(NYSE:AS)](Consumer/Amer.md)
 * [2024年度医疗健康研究](https://github.com/users/Lyman11/projects/4)>>>暂无课题
 * [2024全球资产配置研究](https://github.com/users/Lyman11/projects/5)>>>暂无课题
-
 
 ## 英雄贴
 我一直想试一试有没有人愿意一起参与进来学习和研究。**匿名**参加（我不想知道你的名字和工作单位，你也别打听我的），合作方式通过Google Docs分享文档，通过Notion管理进度，通过Slack进行沟通和合作。由于涉及到投资，所以还是希望可以每周都有进度。
