@@ -1,9 +1,14 @@
-# SweetSpots甜点区
+# SweetSpot甜点区
 本人20多年前开始证券投资，并在2010年开始进入证券行业。先在中国头部券商工作，后一直在私募从事证券研究投资工作。近期由于AI的快速发展，意识到信息处理将发生巨大的变革，而证券研究工作本质上就是一个信息处理，所以未来证券研究工作方式将被颠覆。为了应对这种变化，我想向最先进的IT公司学习，学习项目管理及AI工具，同时希望找几个志同道合的朋友一起做一些证券基本面的研究工作。
 
 目前我想用的工具包括：Notion，Slack，Google Docs。Notion和Slack还在摸索阶段，如果有更适合的工具也欢迎推荐。想成立的Workspace就叫”Sweet Spots“，引用于巴菲特所提的甜点区，希望能找到属于甜点区的击球。
 
-期初想在Notion上建立一个[小组织](https://sweetspots.notion.site/02248e2e889942d2b150f9ae26b033c1?v=48656b949eee4289a09f0fe37efe43e6&pvs=4)，但实际推广和参与程度堪忧，现在想干脆像码农学习，在GitHub上做一个开源研究（由于用了 GitHub，也开始用上了 Obsidian 和 Sourcetree，GitHub 的缺点可能是不能针对文字的每段话开始评论和讨论，其实这一点飞书做的挺好的，可惜在内地需要实名）。希望可以找到志同道合的人。
+> "The trick in investing is just to sit there and watch pitch after pitch go by and wait for the one right in your sweet spot, and if people are yelling, 'Swing, you bum!' ignore them."
+> 
+> —— [The Buffett Series - The Science of Hitting  
+](https://mastersinvest.com/newblog/2017/3/29/the-science-of-hitting)
+
+期初想在Notion上建立一个[小组织](https://sweetspot2024.notion.site/02248e2e889942d2b150f9ae26b033c1?v=48656b949eee4289a09f0fe37efe43e6&pvs=4)，但实际推广和参与程度堪忧，现在想干脆像码农学习，在GitHub上做一个开源研究（由于用了 GitHub，也开始用上了 Obsidian 和 Sourcetree，GitHub 的缺点可能是不能针对文字的每段话开始评论和讨论，其实这一点飞书做的挺好的，可惜在内地需要实名）。希望可以找到志同道合的人。
 
 不过不参加组织也是欢迎来旁观的。可以在[Issues](https://github.com/Lyman11/SweetSpots/issues)里面提交研究方面的新想法或对现有研究的疑问和讨论，更欢迎认领新的研究方向。
 
