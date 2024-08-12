@@ -34,10 +34,10 @@
 
 我们可以提供经验和时间回答各种疑问，帮助没有证券从业经验的朋友快速了解这个行业及相关工作方法。也可以共享已收集的各种影音及文字资料和研究成果。具体的合作方式，可以在加入团队后查看相关指南。该工作方式基于字节跳动，已经在我目前工作的单位有了初步成果。
 
-我希望你有足够的兴趣，有相关经验或有一技之长，会使用基本的IT工具，会科学上网。对你的专业、年龄、性别都没有要求，但对你的求知欲，时间，精力，学习能力，逻辑能力，独立思考有要求。如果你对我的想法感兴趣，请发邮件到[sweetspots2024@gmail.com](mailto:sweetspots2024@gmail.com)申请，邮件的要求如下：
+我希望你有足够的兴趣，有相关经验或有一技之长，会使用基本的IT工具，会科学上网。对你的专业、年龄、性别都没有要求，但对你的求知欲，时间，精力，学习能力，逻辑能力，独立思考有要求。如果你对我的想法感兴趣，请[填写表单](https://forms.gle/yzYop5fNUXnHgwyx7)，并请准备：
 
-1. 邮件标题请写Apply for Sweet Spots
-2. 邮件正文里请发送你的一个Notion页面链接（以表示你会使用Notion，建议用 Google 账号登录，这样你 Google Docs 也有了）。Notion页面里请写上你隐去个人名字及其他隐私信息的简历，介绍一下你的特长和为什么想参加这个好像什么都没有的小组织。可以参考[飞书的个人使用说明书](https://www.feishu.cn/hc/zh-CN/articles/360048137813-%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%A6%82%E4%BD%95%E8%AE%A9%E5%9B%A2%E9%98%9F%E6%9B%B4%E5%A5%BD%E5%9C%B0-%E4%BD%BF%E7%94%A8-%E4%BD%A0)（也可以看我的，更多的了解我[Lyman 的个人说明书](https://www.notion.so/Lyman-8b71024d7bd547c8a8b189d483eabade?pvs=21) ），当前特别欢迎能充分使用AI工具的Geek。
-3. 再发送一个Google Spreadsheets的链接，里面包含你最近在看的一个公司的相关资料，并阐述你为什么要研究这个公司以及这个公司未来会发生什么变化。
+1. 你的联系邮箱
+2. 准备一个Notion页面链接（以表示你会使用Notion，建议用 Google 账号登录，这样你 Google Docs 也有了）。Notion页面里请写上你隐去个人名字及其他隐私信息的简历，介绍一下你的特长和为什么想参加这个好像什么都没有的小组织。可以参考[飞书的个人使用说明书](https://www.feishu.cn/hc/zh-CN/articles/360048137813-%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%A6%82%E4%BD%95%E8%AE%A9%E5%9B%A2%E9%98%9F%E6%9B%B4%E5%A5%BD%E5%9C%B0-%E4%BD%BF%E7%94%A8-%E4%BD%A0)（也可以看我的，更多的了解我[Lyman 的个人说明书](https://www.notion.so/Lyman-8b71024d7bd547c8a8b189d483eabade?pvs=21) ），当前特别欢迎能充分使用AI工具的Geek。
+3. 再准备一个Google Spreadsheets的链接，里面包含你最近在看的一个公司的相关资料，并阐述你为什么要研究这个公司以及这个公司未来会发生什么变化。可以参考[公司备忘录-宁德时代(300750.SZ)](https://docs.google.com/spreadsheets/d/1llIZyqMyPhGSF7OZZoIfiC7qeaP4czFlVu976J00RcQ/edit?usp=sharing)
 
 期待和你的交流！
