@@ -14,16 +14,20 @@
 
 ## 目前研究课题Project
 * [2024年度科技行业研究](https://github.com/users/Lyman11/projects/2)>>>[特斯拉](/Technology/Tesla.md)(NASDAQ:TSLA)
-* [2024年度工业制造研究](https://github.com/users/Lyman11/projects/1)>>>[铀矿](Industry/铀矿.md)|KAZATOMPROM([LSE:KAP](https://g.co/finance/59OT:LON))--锂电池|宁德时代(SZ:300750)
+* [2024年度工业制造研究](https://github.com/users/Lyman11/projects/1)>>>[铀矿](Industry/铀矿.md)|哈原铀([LSE:KAP](https://g.co/finance/59OT:LON))--锂电池|宁德时代(SZ:300750)
 * [2024年度消费行业研究](https://github.com/users/Lyman11/projects/3)>>>[亚玛芬(NYSE:AS)](Consumer/Amer.md)
 * [2024年度医疗健康研究](https://github.com/users/Lyman11/projects/4)>>>暂无课题
-* [2024全球资产配置研究](https://github.com/users/Lyman11/projects/5)>>>[日本市场](Asset%20Allocation/Japan.md)
+* [2024全球资产配置研究](https://github.com/users/Lyman11/projects/5)>>>[日本市场](AssetAllocation/Japan.md)--[中国人口](AssetAllocation/中国人口.md)
 
-## 投资笔记
+## 投资笔记及资源
 ### Lyman
-[[投资笔记2024 年Q3]]
+[投资笔记2024年Q3](投资笔记2024年Q3.md)
+[公司卡片查询 FineBI](http://china.sweetspot.top:37741/webroot/decision/link/wtWN)
+[行业分析 FineBI](http://china.sweetspot.top:37741/webroot/decision/link/HutI)
 
 ## 英雄贴
+[Sweet Spot](https://www.sweetspot.top/)
+
 我一直想试一试有没有人愿意一起参与进来学习和研究。**匿名**参加（我不想知道你的名字和工作单位，你也别打听我的），合作方式通过 Google Docs 和 Notion 分享文档及评论问答，通过Notion管理进度，可以通过Slack或者其他工具进行沟通和合作。由于涉及到投资，所以还是希望可以每周都有进度。
 
 目前想研究的方向包含以下几个方面，相互之间也可能会出现交集
