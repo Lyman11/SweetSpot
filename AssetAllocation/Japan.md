@@ -3,3 +3,4 @@
 
 ## 野村日股价值基金路演 20240831
 [路演录音及 PPT 图片](https://tongyi.aliyun.com/efficiency/doc/transcripts/gpjbqkj7v72gnk2a?sl=1&source=1# )
+[华润信托樱实野村日股价值1号-推介PPT](https://raw.githubusercontent.com/Lyman11/Lyman/main/upload/202409022106550.pdf)
