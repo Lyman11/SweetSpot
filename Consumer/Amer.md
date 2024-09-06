@@ -1,7 +1,7 @@
 # 亚玛芬公司：
 
 ## 财报整理
-[公司备忘录-亚玛芬(NYSE:AS)](https://docs.google.com/spreadsheets/d/1Crmi8gT7M6PQZxPw7oocgglnWSxZOqfWF5ajvRQOcW8/edit?usp=sharing)
+[公司备忘录-亚玛芬(NYSE:AS)](https://docs.google.com/spreadsheets/d/1Crmi8gT7M6PQZxPw7oocgglnWSxZOqfWF5ajvRQOcW8/edit?usp=sharing)（更新至 2024Q2）
 
 ## 简介
 2004年公司剥离了烟草业务，更名为AmerSports。
