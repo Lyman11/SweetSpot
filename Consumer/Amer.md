@@ -1,3 +1,9 @@
+---
+tags:
+  - Consumer
+NotionID-obtest: 1641d41f-8ad1-4164-aaca-d211b35098cc
+link-obtest: https://www.notion.so/Amer-1641d41f8ad14164aacad211b35098cc
+---
 # 亚玛芬公司：
 
 ## 财报整理
