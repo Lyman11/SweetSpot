@@ -1,8 +1,6 @@
 ---
 tags:
   - Technology
-NotionID-obtest: b2953353-34d2-455a-b09a-37eee5ec481a
-link-obtest: https://www.notion.so/Tesla-b295335334d2455ab09a37eee5ec481a
 ---
 [公司备忘录-Tesla](https://docs.google.com/spreadsheets/d/1WTsjE0Ojbr5QSMItKrsIIRQLB6PnB0yjrE4NSl1Q8mA/edit#gid=0)
 
