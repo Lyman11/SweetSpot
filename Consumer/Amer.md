@@ -1,6 +1,8 @@
 ---
 tags:
   - Consumer
+NotionID-Sweet Spot Blog: 102b841e-70d6-8174-a17a-d23ccf5687f3
+link-Sweet Spot Blog: https://www.notion.so/Amer-102b841e70d68174a17ad23ccf5687f3
 ---
 # 亚玛芬公司：
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Technology
+NotionID-Sweet Spot Blog: 102b841e-70d6-8163-a2f6-ed2ae7ddbcd2
+link-Sweet Spot Blog: https://www.notion.so/Tesla-102b841e70d68163a2f6ed2ae7ddbcd2
 ---
 [公司备忘录-Tesla](https://docs.google.com/spreadsheets/d/1WTsjE0Ojbr5QSMItKrsIIRQLB6PnB0yjrE4NSl1Q8mA/edit#gid=0)
 
